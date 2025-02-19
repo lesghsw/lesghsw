@@ -8,4 +8,6 @@ Computer science enthusiast, i like low level programming and computer graphics.
   <img src="https://i.giphy.com/fAifEytbybO75MsvZP.webp">
 </div>
 
+<br>
+
 > "Un maiale che non vola è solo un maiale." - Marco Pagot
