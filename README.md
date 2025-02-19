@@ -1,6 +1,7 @@
 <div align="center">
 Computer science enthusiast, i like low level programming and computer graphics.
 </div>
+
 -----------
 
 <div align="center">
