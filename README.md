@@ -1,8 +1,9 @@
 <div align="center">
 Computer science enthusiast, i like low level programming and computer graphics.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesghsw&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesghsw)
 </div>
+
 -----------
 
 <div align="center">
