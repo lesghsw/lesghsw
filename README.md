@@ -2,6 +2,8 @@
 Computer science enthusiast, i like low level programming and computer graphics.
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesghsw&theme=tokyonight)
+
 -----------
 
 <div align="center">
